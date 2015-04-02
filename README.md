@@ -1,2 +1,2 @@
 # Tiles
-Arrange different tiles
+Arrange different size of tiles
