@@ -1,0 +1,116 @@
+{
+    "widgets":[
+        {
+            "type": "image",
+            "src": "data/images/1.jpg"
+        },
+        {
+            "type": "headline",
+            "text": "In Test matches, Sachin has scored centuries against all the Test-cricket playing nations. He has scored a century in at least one cricket ground of all Test-cricket playing nations, except Zimbabwe."
+        },
+        {
+            "type": "image",
+            "src": "data/images/2.jpg"
+        },
+        {
+            "type": "score",
+            "text": "136 in the first test against Pakistan in Chennai, 1999"
+        },
+        {
+            "type": "image",
+            "src": "data/images/3.jpg"
+        },
+        {
+            "type": "headline",
+            "text": "In ODIs, Sachin has scored centuries against 10 different opponents. He has scored centuries against all cricketing nations that have permanent One Day International status, except Bangladesh."
+        },
+        {
+            "type": "image",
+            "src": "data/images/4.jpg"
+        },
+        {
+            "type": "score",
+            "text": "114 in the fifth test against Australia in Perth, 1992"
+        },
+        {
+            "type": "image",
+            "src": "data/images/5.jpg"
+        },
+        {
+            "type": "headline",
+            "text": "It was on November 15, 1989, that Sachin played his first Test match against Pakistan in Karachi at the age of 16 years - the second youngest debutant in the world."
+        },
+        {
+            "type": "image",
+            "src": "data/images/6.jpg"
+        },
+        {
+            "type": "score",
+            "text": "241 in the fourth Test against Australia in Sydney, 2004"
+        },
+        {
+            "type": "score",
+            "text": "114 in the fifth test against Australia in Perth, 1992"
+        },
+        {
+            "type": "image",
+            "src": "data/images/5.jpg"
+        },
+         {
+            "type": "image",
+            "src": "data/images/1.jpg"
+        },
+        {
+            "type": "headline",
+            "text": "In Test matches, Sachin has scored centuries against all the Test-cricket playing nations. He has scored a century in at least one cricket ground of all Test-cricket playing nations, except Zimbabwe."
+        },
+        {
+            "type": "image",
+            "src": "data/images/2.jpg"
+        },
+        {
+            "type": "score",
+            "text": "136 in the first test against Pakistan in Chennai, 1999"
+        },
+        {
+            "type": "image",
+            "src": "data/images/3.jpg"
+        },
+        {
+            "type": "headline",
+            "text": "In ODIs, Sachin has scored centuries against 10 different opponents. He has scored centuries against all cricketing nations that have permanent One Day International status, except Bangladesh."
+        },
+        {
+            "type": "image",
+            "src": "data/images/4.jpg"
+        },
+        {
+            "type": "score",
+            "text": "114 in the fifth test against Australia in Perth, 1992"
+        },
+        {
+            "type": "image",
+            "src": "data/images/5.jpg"
+        },
+        {
+            "type": "headline",
+            "text": "It was on November 15, 1989, that Sachin played his first Test match against Pakistan in Karachi at the age of 16 years - the second youngest debutant in the world."
+        },
+        {
+            "type": "image",
+            "src": "data/images/6.jpg"
+        },
+        {
+            "type": "score",
+            "text": "241 in the fourth Test against Australia in Sydney, 2004"
+        },
+        {
+            "type": "score",
+            "text": "114 in the fifth test against Australia in Perth, 1992"
+        },
+        {
+            "type": "image",
+            "src": "data/images/5.jpg"
+        }
+    ]
+}
